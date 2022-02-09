@@ -2,6 +2,5 @@
 IKT github bevezető gyakorlás
 # Sauherrepo azigazi
 # Rék Dávid
-106
-Halo Halo
-Azota am 142
+Azóta 147
+Rekord: 162
