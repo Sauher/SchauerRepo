@@ -2,5 +2,5 @@
 IKT github bevezető gyakorlás
 # Sauherrepo azigazi
 # Rék Dávid
-Azóta 147
+Azóta 159
 Rekord: 162
