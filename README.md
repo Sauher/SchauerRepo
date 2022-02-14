@@ -4,3 +4,4 @@ IKT github bevezető gyakorlás
 # Rék Dávid
 Azóta 25
 Rekord: 215
+shhheeeeesssh
