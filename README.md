@@ -4,4 +4,4 @@ IKT github bevezető gyakorlás
 # Rék Dávid
 Azóta 38
 Rekord: 215
-amogus
+amoguss
