@@ -5,3 +5,4 @@ IKT github bevezető gyakorlás
 Azóta 38
 Rekord: 215
 amogusss
+Otthonról
